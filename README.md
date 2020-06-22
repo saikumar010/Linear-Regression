@@ -11,4 +11,4 @@ I have checked the corelation between all independent and dependent variable usi
 
 Category Encoding: OneHotEncoding 
 
-Accuracy: 56.29
+Accuracy: 56.29%
